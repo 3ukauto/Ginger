@@ -1,2 +1,0 @@
-# Ginger
-Ginger Automation
